@@ -10,7 +10,7 @@
 
 - Bag Reports <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1Q6db6oxQY9D0LNLm0iUg0ZOeJWP0dbl5"/>
 
-- SQL <img src=""/>
+- SQL <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1w1q-2FNbgVDEvBAb5KZiOewgb8Dp9oUZ"/>
 
 - Charles <img src=""/>
 
