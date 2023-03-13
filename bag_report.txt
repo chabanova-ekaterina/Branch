@@ -1,7 +1,7 @@
 ID
 Title
 Severity
-Priority: Low
+Priority
 Precondition
 Environment
 STR (Steps to restore)
