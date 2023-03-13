@@ -8,5 +8,5 @@ STR (Steps to restore)
 Expected result
 Actual Result
 Attach
-Comments: no_comments
+Comments
 
