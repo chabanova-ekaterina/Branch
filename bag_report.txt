@@ -1,5 +1,5 @@
 ID
-Title: Slider in the banner under the graph when combined
+Title
 Severity: Minor
 Priority: Low
 Precondition: Open the site on the main page, Scroll to the Trading calculator
