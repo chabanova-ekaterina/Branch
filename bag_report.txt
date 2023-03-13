@@ -1,6 +1,6 @@
 ID
 Title
-Severity: Minor
+Severity
 Priority: Low
 Precondition: Open the site on the main page, Scroll to the Trading calculator
 Environment: OS: Windows 10 Pro 19042.1415; Chrome 109.0.5414.120
