@@ -3,7 +3,7 @@ Title
 Severity
 Priority: Low
 Precondition
-Environment: OS: Windows 10 Pro 19042.1415; Chrome 109.0.5414.120
+Environment
 STR (Steps to restore):
                         1. Set the left slider in an arbitrary place, except for the leftmost position
                         2. Move the right slider to it
