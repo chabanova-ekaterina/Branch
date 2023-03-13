@@ -9,3 +9,7 @@ Expected result
 Actual Result
 Attach
 Comments
+
+| ID   | Title  | Severity  | Priority  | Precondition  |Environment  |Precondition  |STR (Steps to restore)  |Expected result  |Actual Result  |Attach  | Comments |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |Content Cell  |Content Cell  |Content Cell  |Content Cell  |Content Cell  |Content Cell  |
