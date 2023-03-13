@@ -7,6 +7,6 @@ Environment
 STR (Steps to restore)
 Expected result
 Actual Result
-Attach: link
+Attach
 Comments: no_comments
 
