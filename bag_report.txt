@@ -1,4 +1,4 @@
-ID: BR-6
+ID
 Title: Slider in the banner under the graph when combined
 Severity: Minor
 Priority: Low
