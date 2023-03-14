@@ -14,9 +14,9 @@
 
 - CheckLists ---------- <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1b4s2iJzq7GHm-Mj9tXJXhssQr05AykaB"/>
 
-| ID   | Title | Precondition | Environment | STR | ER | AR | Attach | Comments |
-| ---- |------ | ------------ |------------ |---- |--- |--- |------- |--------- |
-|   1  |   2   |      3       |      4      |  5  | 6  |  7 |    8   |    9     |   
+| ID   | Title | Precondition | STR |  ER | AR | Environment | Attach | Comments |
+| ---- |------ | ------------ |---- |---- |--- |------------ |------- |--------- |
+|   1  |   2   |      3       |  4  |  5  | 6  |       7     |    8   |    9     |   
 
 ---
 
