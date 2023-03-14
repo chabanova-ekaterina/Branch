@@ -79,5 +79,3 @@
 ☑ No duplicate pages.
 ☑ There are bread crumbs.
 ☑ CNC adjusted.
-
-
