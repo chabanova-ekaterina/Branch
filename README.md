@@ -6,7 +6,7 @@
 </h1> 
 
 
-- Postman ------------- <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT"/>
+-  [Postman](https://github.com/chabanova-ekaterina/Postman.git/ "Postman repository") ------------- <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT"/>
 
 - Jmeter -------------- <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1XlOlt6gMXD91NLnRsSo-t7LnhqLFRsZi"/>
 
